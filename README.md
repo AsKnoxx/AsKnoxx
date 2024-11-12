@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AsKnoxx(Eric)
-- 👀 I’m interested in MATLAB
-- 🌱 I’m currently learning MATLAB App Designer
-- 📫 How to reach me nodta14@gmail.com
+- 👀 I’m interested in MATLAB and web development
+- 🌱 I’m currently learning foundations of web development
+- 📫 How to reach me nodtas14@gmail.com
 - ⚡ Fun fact: My favorite bands are The Rare Occasions and sElf
 
 <!---
