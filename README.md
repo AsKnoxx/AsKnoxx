@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsKnoxx(Eric)
-- 👀 I’m interested in MATLAB and web development
-- 🌱 I’m currently learning foundations of web development
+- 👀 I’m interested in ROS2 and C++
+- 🌱 I’m currently learning both
 - 📫 How to reach me nodtas14@gmail.com
 - ⚡ Fun fact: My favorite bands are The Rare Occasions and sElf
 
